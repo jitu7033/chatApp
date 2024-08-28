@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "694888979864",
+    "firebase_url": "https://whatsapp-f4736-default-rtdb.firebaseio.com",
+    "project_id": "whatsapp-f4736",
+    "storage_bucket": "whatsapp-f4736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694888979864:android:204ca087123cc3e54f5fed",
+        "android_client_info": {
+          "package_name": "com.aartidroid.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAskEOieck3hMx1N34HVvcbt6PwE92PSik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
